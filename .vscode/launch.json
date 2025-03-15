@@ -6,7 +6,7 @@
             "name": "Launch Extension",
             "type": "extensionHost",
             "request": "launch",
-            "runtimeExecutable": "${execPath}",
+            "runtimeExecutable": "/usr/bin/code",
             "args": [
                 "--extensionDevelopmentPath=${workspaceRoot}",
                 "--enable-proposed-api",
