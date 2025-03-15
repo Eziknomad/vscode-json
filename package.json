@@ -106,7 +106,8 @@
 			"json-views": [
 				{
 					"id": "jsonTree",
-					"name": "Please open the json file.(ZainChen)"
+					"name": "Please open the json file.(ZainChen)",
+					"icon": "./resources/json-128.png"
 				}
 			]
 		},
